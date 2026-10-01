@@ -6,8 +6,8 @@
  
 ![MY VISITOR](https://komarev.com/ghpvc/?username=amiruldev20&color=green)
 
-<img width="" src="https://prnt.sc/0j_MqwtYUKJK">
-<img width="" src="img2.png">
+<img width="" src="Screenshot (189).png">
+<img width="" src="Screenshot (190).png">
 </p>
 
 
